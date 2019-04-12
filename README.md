@@ -6,13 +6,13 @@ Its a Node.js CLI Todo App where you can add, delete and get specific task from 
 node app list
 
 ### Add Task
-node app add -t "<task-name>" -d "<task-description>"
+node app add -t "task-name" -d "task-description"
 
 ### Delete Task
-node app delete -t "<task-name>"
+node app delete -t "task-name"
 
 ### Get specific Task
-node app get -t "<task-name>"
+node app get -t "task-name"
 
 ## Following are the commands to run this application
 
